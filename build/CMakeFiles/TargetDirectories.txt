@@ -1,0 +1,9 @@
+/home/sjm-gamer/cpp/economy/build/CMakeFiles/economy.dir
+/home/sjm-gamer/cpp/economy/build/CMakeFiles/edit_cache.dir
+/home/sjm-gamer/cpp/economy/build/CMakeFiles/rebuild_cache.dir
+/home/sjm-gamer/cpp/economy/build/CMakeFiles/list_install_components.dir
+/home/sjm-gamer/cpp/economy/build/CMakeFiles/install.dir
+/home/sjm-gamer/cpp/economy/build/CMakeFiles/install/local.dir
+/home/sjm-gamer/cpp/economy/build/CMakeFiles/install/strip.dir
+/home/sjm-gamer/cpp/economy/build/CMakeFiles/economy_autogen_timestamp_deps.dir
+/home/sjm-gamer/cpp/economy/build/CMakeFiles/economy_autogen.dir
